@@ -570,3 +570,7 @@ pubmatic.com, 157906, RESELLER, 5d62403b186f2ace
 pubmatic.com, 159719, RESELLER, 5d62403b186f2ace
 indexexchange.com, 189901, RESELLER
 indexexchange.com, 192587, RESELLER
+
+#Spotx
+spotxchange.com, 306813, RESELLER, 7842df1d2fe2db34
+spotx.tv, 306813, RESELLER, 7842df1d2fe2db34
