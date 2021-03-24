@@ -574,3 +574,7 @@ indexexchange.com, 192587, RESELLER
 #Spotx
 spotxchange.com, 306813, RESELLER, 7842df1d2fe2db34
 spotx.tv, 306813, RESELLER, 7842df1d2fe2db34
+
+#Rubicon
+rubiconproject.com, 23244, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 23244, RESELLER, 0bfd66d529a55807
