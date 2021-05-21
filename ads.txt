@@ -836,3 +836,7 @@ pubmatic.com, 160319, RESELLER, 5d62403b186f2ace
 #Rubiconproject
 rubiconproject.com, 23244, DIRECT, 0bfd66d529a55807
 rubiconproject.com, 23244, RESELLER, 0bfd66d529a55807
+
+#Pubmatic
+pubmatic.com, 160234, DIRECT, 5d62403b186f2ace
+pubmatic.com, 160234, RESELLER, 5d62403b186f2ace
