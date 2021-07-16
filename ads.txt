@@ -1170,3 +1170,11 @@ appnexus.com, 10824, RESELLER, f5ab79cb980f11d1
 chartboost.com, 5da62a1035b91e0aff190bf7, RESELLER
 
 # Publift Fuse ads.txt End#
+
+#inpixlabs:
+google.com, pub-5016155138623826, RESELLER, f08c47fec0942fa0
+google.com, pub-7002491002409919, RESELLER, f08c47fec0942fa0
+google.com, pub-1965383259143495, DIRECT, f08c47fec0942fa0
+google.com, pub-5857139169215153, RESELLER, f08c47fec0942fa0
+google.com, pub-1965383259143495, DIRECT, f08c47fec0942fa0
+google.com, pub-1419914821759137, RESELLER, f08c47fec0942fa0
