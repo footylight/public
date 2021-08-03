@@ -207,6 +207,43 @@ freewheel.tv, 1214559, RESELLER
 spotxchange.com, 310789, RESELLER, 7842df1d2fe2db34
 spotx.tv, 310789, RESELLER, 7842df1d2fe2db34
 
+# RichAudience
+richaudience.com, 1CJd4ZM64n, DIRECT
+adform.com, 1942, DIRECT
+adform.com, 1941, DIRECT
+adtech.com, 4687, RESELLER
+advertising.com, 7574, DIRECT
+aerserv.com, 2750, RESELLER, 2ce496b9f80eb9fa
+aol.com, 27093, RESELLER
+aol.com, 46658, RESELLER
+aol.com, 46658, RESELLER
+aol.com, 46658, RESELLER
+aolcloud.net, 4687, RESELLER
+appnexus.com, 2928, DIRECT
+appnexus.com, 8233, DIRECT
+contextweb.com, 560520, RESELLER
+google.com, pub-4673227357197067, RESELLER, f08c47fec0942fa0
+google.com, pub-9115524111147081, RESELLER, f08c47fec0942fa0
+indexexchange.com, 179394, RESELLER
+lijit.com, 249425, RESELLER
+mobfox.com, 74240, RESELLER
+mobfox.com, 45499, RESELLER
+openx.com, 539625136, RESELLER
+pubmatic.com, 81564, DIRECT, 5d62403b186f2ace
+pubmatic.com, 156538, DIRECT, 5d62403b186f2ace
+rubiconproject.com, 13510, DIRECT
+smaato.com, 1100037086, RESELLER
+smaato.com, 1100000579, RESELLER
+smartadserver.com, 2640, RESELLER
+smartadserver.com, 2441, RESELLER
+sovrn.com, 249425, RESELLER
+spotx.tv, 173175, DIRECT
+spotx.tv, 173177, DIRECT
+spotxchange.com, 173175, DIRECT
+spotxchange.com, 173177, DIRECT
+yahoo.com, 57857, RESELLER, e1a5b5b6e3255540
+
+
 # Dugout End
 
 
