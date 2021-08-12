@@ -6,7 +6,7 @@ google.com, pub-8968078361280209, DIRECT, f08c47fec0942fa0
 
 
 # Dugout start
-# Dugout Version 5.24
+# Dugout Version 5.26
 
 # Dugout's GAM
 google.com, pub-3689904677185774, DIRECT, f08c47fec0942fa0
