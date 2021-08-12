@@ -733,6 +733,7 @@ advertising.com, 28650, RESELLER
 pubmatic.com, 160318, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160319, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160993, RESELLER, 5d62403b186f2ace
+google.com, pub-6346866704322274, RESELLER, f08c47fec0942fa0
 
 #Rubiconproject
 rubiconproject.com, 23244, DIRECT, 0bfd66d529a55807
