@@ -1440,6 +1440,7 @@ spotxchange.com, 108706, RESELLER, 7842df1d2fe2db34  #EBDA
 rhythmone.com, 1149317856,RESELLER, a670c89d4a324e47 #EBDA
 video.unrulymedia.com, 1149317856, RESELLER #EBDA
 airnowmedia.com, ANM016, DIRECT
+yahoo.com, 59265, RESELLER
 
 #Sonobi
 sonobi.com, 8b0b1364b2, DIRECT, d1a215d9eb5aee9e
