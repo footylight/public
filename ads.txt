@@ -5,13 +5,13 @@
 google.com, pub-8968078361280209, DIRECT, f08c47fec0942fa0
 
 # Dugout start
-# Dugout Version 5.26
+# Dugout Version 5.29
 
 # Dugout's GAM
 google.com, pub-3689904677185774, DIRECT, f08c47fec0942fa0
 
 # OneFootball GAM
-google.com, pub-1872236547113677, RESELLER, f08c47fec0942fa0
+google.com, pub-1872236547113677, DIRECT, f08c47fec0942fa0
 
 # Telaria
 telaria.com, qs25e-sehr4, DIRECT, 1a4e959a1b50034a
@@ -26,11 +26,11 @@ tremorhub.com, qs25e-kb698, DIRECT, 1a4e959a1b50034a
 tremorhub.com, qs25e-6mbg8, DIRECT, 1a4e959a1b50034a
 
 # Pubmatic
+pubmatic.com, 161235, DIRECT, 5d62403b186f2ace
 pubmatic.com, 158721, DIRECT, 5d62403b186f2ace
-pubmatic.com, 158794, RESELLER, 5d62403b186f2ace
-pubmatic.com,159449,RESELLER,5d62403b186f2ace
 pubmatic.com, 159282, DIRECT, 5d62403b186f2ace
 pubmatic.com, 159824, DIRECT, 5d62403b186f2ace
+pubmatic.com, 161235, DIRECT, 5d62403b186f2ace
 
 # Verizon Media
 advertising.com, 28901, DIRECT, e1a5b5b6e3255540
@@ -40,10 +40,10 @@ contextweb.com, 561707, RESELLER, 89ff185a4c4e857c
 appnexus.com, 11665, RESELLER #video
 
 # SpotX
-spotxchange.com, 269484, RESELLER, 7842df1d2fe2db34
-spotx.tv, 269484, RESELLER, 7842df1d2fe2db34
-spotxchange.com, 310789, RESELLER, 7842df1d2fe2db34
-spotx.tv, 310789, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 269484, DIRECT, 7842df1d2fe2db34
+spotx.tv, 269484, DIRECT, 7842df1d2fe2db34
+spotxchange.com, 310789, DIRECT, 7842df1d2fe2db34
+spotx.tv, 310789, DIRECT, 7842df1d2fe2db34
 
 # JWPlayer
 themediagrid.com,ED6O3B,DIRECT,35d5010d7789b49d
@@ -64,12 +64,6 @@ rubiconproject.com, 16106, DIRECT, 0bfd66d529a55807
 rubiconproject.com, 21872, DIRECT, 0bfd66d529a55807
 rubiconproject.com, 16334, DIRECT, 0bfd66d529a55807
 rubiconproject.com, 22780, DIRECT, 0bfd66d529a55807
-rubiconproject.com, 16106, RESELLER, 0bfd66d529a55807
-
-# IndexExchange
-indexexchange.com, 190986, DIRECT
-indexexchange.com, 192867, DIRECT
-indexexchange.com, 193246, DIRECT
 
 # OpenX
 openx.com, 540717833, DIRECT, 6a698e2ec38604c6
@@ -111,7 +105,6 @@ spotx.tv, 308823, RESELLER, 7842df1d2fe2db34
 
 # Xandr/Appnexus
 appnexus.com, 8291, DIRECT
-appnexus.com, 8291, RESELLER 
 
 # Atingigroup/Streamlyn/UrekaMedia
 appnexus.com, 12065, RESELLER, f5ab79cb980f11d1
@@ -183,29 +176,12 @@ adyoulike.com, b4bf4fdd9b0b915f746f6747ff432bde, RESELLER
 axonix.com, 57264, RESELLER
 admanmedia.com, 43, RESELLER
 
-# Amazon
-aps.amazon.com, 15b50c9a-fa99-4ff5-95a3-473fc07ca8b8, DIRECT
-
-# 9mediaonline
-9mediaonline.com,1a34c, Direct
-Advertising.com, 19011, RESELLER
-Appnexus.com, 11819, RESELLER
-Freewheel.tv, 295681, RESELLER,
-Freewheel.tv, 299345, RESELLER,
-improvedigital.com, 1154, RESELLER,
-amxrtb.com, 105199457, RESELLER
-supply.colossusssp.com, 296, RESELLER, 6c5b49d96ec1b458
-
 # MMP
 rubiconproject.com, 19512, RESELLER, 0bfd66d529a55807
 google.com, pub-3992393056167515, RESELLER, f08c47fec0942fa0
 indexexchange.com, 187558, RESELLER
 freewheel.tv, 1214543, RESELLER
 freewheel.tv, 1214559, RESELLER
-
-# SpotX
-spotxchange.com, 310789, RESELLER, 7842df1d2fe2db34
-spotx.tv, 310789, RESELLER, 7842df1d2fe2db34
 
 # RichAudience
 richaudience.com, 1CJd4ZM64n, DIRECT
@@ -243,6 +219,16 @@ spotxchange.com, 173175, DIRECT
 spotxchange.com, 173177, DIRECT
 yahoo.com, 57857, RESELLER, e1a5b5b6e3255540
 
+# TheMediaGrid
+themediagrid.com, 135KQ2, DIRECT, 35d5010d7789b49d
+
+# Freewheel
+freewheel.tv, 1259807, DIRECT
+freewheel.tv, 1274223, DIRECT
+
+# Yahoo
+yahoo.com, 59381, DIRECT, e1a5b5b6e3255540
+yahoo.com, 59381, DIRECT #banner
 
 # Dugout End
 
