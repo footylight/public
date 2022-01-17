@@ -658,89 +658,60 @@ spotx.tv, 306813, RESELLER, 7842df1d2fe2db34
 rubiconproject.com, 23244, DIRECT, 0bfd66d529a55807
 rubiconproject.com, 23244, RESELLER, 0bfd66d529a55807
 
-#Aniview Marketplace
-aniview.com, 6019e3b036512c35d8459cda, DIRECT, 78b21b97965ec3f8
+#Aniview Marketplace Q1 2022
+aniview.com, 6019e3b036512c35d8459cda, RESELLER, 78b21b97965ec3f8
+google.com, pub-6346866704322274, RESELLER, f08c47fec0942fa0
 advertising.com, 23089, RESELLER
+yahoo.com, 59244, RESELLER
 appnexus.com, 12637, RESELLER, f5ab79cb980f11d1
 appnexus.com, 9382, RESELLER, f5ab79cb980f11d1
-synacor.com, 82171, RESELLER, e108f11b2cdf7d5b
-conversantmedia.com, 100195, DIRECT, 03113cd04947736d
-onetag.com, 57e618150c70d90, RESELLER
-EMXDGT.com, 1527, RESELLER, 1e1d41537f7cad7f
-openx.com, 540862677, RESELLER, 6a698e2ec38604c6
-improvedigital.com, 1581, RESELLER
+rubiconproject.com, 13918, RESELLER, 0bfd66d529a55807
+pubmatic.com, 161335, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160993, RESELLER, 5d62403b186f2ace
+media.net, 8CUXCT7BJ, direct
+vidoomy.com, 62133, RESELLER
 video.unrulymedia.com, 3350674472, DIRECT
 rhythmone.com, 3350674472, DIRECT, a670c89d4a324e47
-freewheel.tv, 1157665, RESELLER
-freewheel.tv, 1157681, RESELLER
-freewheel.tv, 1163521, RESELLER
-freewheel.tv, 1164257, RESELLER
+google.com, pub-5717092533913515, RESELLER, f08c47fec0942fa0
 google.com, pub-4586415728471297, RESELLER, f08c47fec0942fa0
-pubmatic.com, 157742, RESELLER, 5d62403b186f2ace
-pubmatic.com, 159941, RESELLER, 5d62403b186f2ace
-didna.io, 4169, DIRECT
-google.com, pub-3565385483761681, DIRECT, f08c47fec0942fa0
-google.com, pub-5717092533913515, RESELLER, f08c47fec0942fa0 #NPMpartners
+richaudience.com, 1ru8dKmJJV, DIRECT
+advertising.com, 7574, RESELLER
+appnexus.com, 8233, RESELLER
+conversantmedia.com, 100195, DIRECT, 03113cd04947736d
+appnexus.com, 4052, RESELLER
+contextweb.com, 561998, RESELLER, 89ff185a4c4e857c
 smartadserver.com, 2786, DIRECT
 improvedigital.com, 1147, DIRECT
-google.com, pub-2930805104418204, RESELLER, f08c47fec0942fa0 #APL
-google.com, pub-4903453974745530, RESELLER, f08c47fec0942fa0
-undertone.com, 4077, DIRECT
-appnexus.com, 2234, RESELLER
-richaudience.com, 1ru8dKmJJV, DIRECT
+freewheel.tv, 1163521, RESELLER
+freewheel.tv, 1164257, RESELLER
+improvedigital.com, 1581, RESELLER
+amxrtb.com, 105199583, DIRECT
+appnexus.com, 12290, RESELLER, f5ab79cb980f11d1
+indexexchange.com, 191503, RESELLER, 50b1c356f2c5c8fc
+pubmatic.com, 158355 , RESELLER, 5d62403b186f2ace
+onetag.com, 57e618150c70d90, DIRECT
+sovrn.com, 376385, RESELLER, fafdf38b16bf6b2b
+lijit.com, 376385, RESELLER, fafdf38b16bf6b2b
+lijit.com, 376385-eb, RESELLER, fafdf38b16bf6b2b
+loopme.com, 11455, RESELLER, 6c8d5f95897a5a3b
+smartadserver.com, 4255, DIRECT
+smartadserver.com, 4071, DIRECT
+pubmatic.com, 156439, RESELLER, 5d62403b186f2ace
+ampliffy.com, 5500, DIRECT, a34493ff032mp431
+google.com, pub-0796790890307838, RESELLER, f08c47fec0942fa0
+google.com, pub-7279729872265667, RESELLER, f08c47fec0942fa0
+improvedigital.com, 1358, RESELLER
+indexexchange.com, 186318, RESELLER
+openx.com, 539624483, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 157866, RESELLER, 5d62403b186f2ace
+rhythmone.com, 1575167821, RESELLER
+rubiconproject.com, 18304, RESELLER, 0bfd66d529a55807
+google.com, pub-5717092533913515, RESELLER, f08c47fec0942fa0
+synacor.com, 82171, RESELLER, e108f11b2cdf7d5b
 pubmatic.com, 156344, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 13344, RESELLER, 0bfd66d529a55807
 indexexchange.com, 191740, RESELLER, 50b1c356f2c5c8fc
-appnexus.com, 4052, RESELLER
-contextweb.com, 561998, RESELLER, 89ff185a4c4e857c
-openx.com, 540031703, RESELLER, 6a698e2ec38604c6
-pubmatic.com, 158100, RESELLER, 5d62403b186f2ace
-yahoo.com, 55771, RESELLER, e1a5b5b6e3255540
-google.com, pub-3769010358500643, RESELLER, f08c47fec0942fa0
-rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
-appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
-sonobi.com, 844f617a46, RESELLER, d1a215d9eb5aee9e
-rhythmone.com, 1059622079, RESELLER, a670c89d4a324e47
-contextweb.com, 560606, RESELLER, 89ff185a4c4e857c
-33across.com, 0015a00002egIVcAAM, RESELLER, bbea06d9c4d2853c
-appnexus.com, 10239, RESELLER, f5ab79cb980f11d1
-rubiconproject.com, 16414, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 21642, RESELLER, 0bfd66d529a55807
-advertising.com, 12543, RESELLER #33Across #hb #tag #video
-ampliffy.com, 5026, DIRECT, a34493ff032mp431
-google.com, pub-0796790890307838, RESELLER, f08c47fec0942fa0
-google.com, pub-3565385483761681, DIRECT, f08c47fec0942fa0
-pubmatic.com, 159744, DIRECT, 5d62403b186f2ace
-rubiconproject.com, 20100, DIRECT, 0bfd66d529a55807
-indexexchange.com, 186905, DIRECT, 50b1c356f2c5c8fc
-rhythmone.com, 1837834705,DIRECT,a670c89d4a324e47
-video.unrulymedia.com, 1837834705, DIRECT
-indexexchange.com, 185192, DIRECT #EBDA
-spotx.tv, 108706, DIRECT, 7842df1d2fe2db34
-spotxchange.com,108706, DIRECT, 7842df1d2fe2db34
-telaria.com,jrkl5-0ac26,DIRECT,1a4e959a1b50034a #EBDA
-tremorhub.com,jrkl5-0ac26,DIRECT,1a4e959a1b50034a #EBDA
-rubiconproject.com, 17346, DIRECT, 0bfd66d529a55807 #EBDA
-pubmatic.com, 157904, DIRECT, 5d62403b186f2ace #PubmaticEBDA
-openx.com, 538929384, DIRECT, 6a698e2ec38604c6 #EBDA
-google.com, pub-5157263156975427, DIRECT, f08c47fec0942fa0
-advertising.com, 7574, RESELLER
-appnexus.com, 8233, RESELLER
-openx.com, 539625136, RESELLER
-pubmatic.com, 81564, RESELLER, 5d62403b186f2ace
-pubmatic.com, 156538, RESELLER, 5d62403b186f2ace
-rubiconproject.com, 13510, RESELLER
-smartadserver.com, 2640, RESELLER
-smartadserver.com, 2441, RESELLER
-yahoo.com, 57857, RESELLER, e1a5b5b6e3255540
-appnexus.com, 2234, RESELLER
-openx.com, 537153564, RESELLER, 6a698e2ec38604c6
-rubiconproject.com, 22412, RESELLER, 0bfd66d529a55807
-advertising.com, 28650, RESELLER
-pubmatic.com, 160318, RESELLER, 5d62403b186f2ace
-pubmatic.com, 160319, RESELLER, 5d62403b186f2ace
-pubmatic.com, 160993, RESELLER, 5d62403b186f2ace
-google.com, pub-6346866704322274, RESELLER, f08c47fec0942fa0
+yahoo.com, 55317, RESELLER, e1a5b5b6e3255540
 
 #Rubiconproject
 rubiconproject.com, 23244, DIRECT, 0bfd66d529a55807
