@@ -8,6 +8,7 @@ google.com, pub-8968078361280209, DIRECT, f08c47fec0942fa0
 # Dugout start
 # Dugout Version 5.30
 
+google.com, pub-1872236547113677, RESELLER, f08c47fec0942fa0
 # Pubmatic
 pubmatic.com, 161235, DIRECT, 5d62403b186f2ace
 # JWPlayer
