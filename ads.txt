@@ -523,6 +523,8 @@ rubiconproject.com, 23244, RESELLER, 0bfd66d529a55807
 #Aniview Marketplace Q1 2022
 aniview.com, 6019e3b036512c35d8459cda, RESELLER, 78b21b97965ec3f8
 advertising.com, 23089, RESELLER
+themediagrid.com, PRLEZI, RESELLER, 35d5010d7789b49d
+criteo.com, B-068458, RESELLER, 9fac4a4a87c2a44f
 yahoo.com, 59244, RESELLER
 appnexus.com, 12637, RESELLER, f5ab79cb980f11d1
 appnexus.com, 9382, RESELLER, f5ab79cb980f11d1
