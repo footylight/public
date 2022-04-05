@@ -572,6 +572,7 @@ pubmatic.com, 158154, RESELLER, 5d62403b186f2ace
 google.com, pub-2561470205289901, RESELLER, f08c47fec0942fa0
 google.com, pub-6070398767421094, RESELLER, f08c47fec0942fa0
 smartadserver.com, 4255, DIRECT
+smartadserver.com, 4255, RESELLER
 smartadserver.com, 4071, DIRECT
 pubmatic.com, 156439, RESELLER, 5d62403b186f2ace
 
