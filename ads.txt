@@ -91,6 +91,41 @@ themediagrid.com, 135KQ2, DIRECT, 35d5010d7789b49d
 freewheel.tv, 1259807, DIRECT
 freewheel.tv, 1274223, DIRECT
 
+# GAM
+google.com, pub-3689904677185774, DIRECT, f08c47fec0942fa0
+google.com, pub-1872236547113677, RESELLER, f08c47fec0942fa0
+
+# Pubmatic
+pubmatic.com, 159282, DIRECT, 5d62403b186f2ace
+pubmatic.com, 159824, DIRECT, 5d62403b186f2ace
+
+# Triplelift
+triplelift.com, 8794, DIRECT, 6c33edb13117fd86
+
+# SpotX
+spotx.tv, 310789, DIRECT, 7842df1d2fe2db34
+spotx.tv, 310974, DIRECT, 7842df1d2fe2db34
+spotxchange.com, 310789, DIRECT, 7842df1d2fe2db34
+spotxchange.com, 310974, DIRECT, 7842df1d2fe2db34
+
+# Improve Digital
+improvedigital.com, 1833, DIRECT
+
+# Yieldmo
+yieldmo.com, 2601162141188694301, DIRECT
+yieldmo.com, 2601162675106816287, DIRECT
+
+# Magnite
+rubiconproject.com, 16334, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 22780, DIRECT, 0bfd66d529a55807
+
+# Index Exchange
+indexexchange.com, 192867, DIRECT
+indexexchange.com, 193246, DIRECT
+
+# OneTag
+onetag.com, 7553da6e458e464, DIRECT
+onetag.com, 7553da6e458e464-OB, DIRECT
 
 # Dugout End
 
