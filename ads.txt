@@ -1538,6 +1538,8 @@ synacor.com, 82302, RESELLER, e108f11b2cdf7d5b
 yahoo.com, 59407, RESELLER, e1a5b5b6e3255540
 beachfront.com, 14779, RESELLER, e2541279e8e2ca4d
 sovrn.com, 264726, RESELLER, fafdf38b16bf6b2b
+improvedigital.com, 2073, RESELLER
+admanmedia.com, 953, RESELLER
 
 #Minutemedia End
 
