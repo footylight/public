@@ -6,7 +6,7 @@ google.com, pub-8968078361280209, DIRECT, f08c47fec0942fa0
 
 
 # Dugout start
-Version 5.32
+#Version 5.35
 
 # GAM
 google.com, pub-3689904677185774, RESELLER, f08c47fec0942fa0
@@ -93,44 +93,39 @@ sovrn.com, 379036, RESELLER, fafdf38b16bf6b2b
 lijit.com, 379036, RESELLER, fafdf38b16bf6b2b
 lijit.com, 379036-eb, RESELLER, fafdf38b16bf6b2b
 
-#Dugout End
+# Stroeer
+stroeer.com, 22144, DIRECT
+adform.com, 716, DIRECT
+EMXDGT.com, 1332, RESELLER, 1e1d41537f7cad7f
+emxdgt.com, 1643, RESELLER, 1e1d41537f7cad7f
+emxdgt.com, 63, RESELLER
+indexexchange.com, 183592, DIRECT
+smartclip.net, 7649, RESELLER
+smartclip.net, 7846, RESELLER
+smartstream.tv, 463, RESELLER
+xandr.com, 1405, DIRECT
 
-# GAM
-google.com, pub-3689904677185774, DIRECT, f08c47fec0942fa0
-google.com, pub-1872236547113677, RESELLER, f08c47fec0942fa0
+# SOVRN
+lijit.com, 377899, DIRECT, fafdf38b16bf6b2b #SOVRN
+lijit.com, 377899-eb, DIRECT, fafdf38b16bf6b2b #SOVRN
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
 
-# Pubmatic
-pubmatic.com, 159282, DIRECT, 5d62403b186f2ace
-pubmatic.com, 159824, DIRECT, 5d62403b186f2ace
+# Sharethrough
+sharethrough.com, wDrW66nh, DIRECT, d53b998a7bd4ecd2
+sharethrough.com, Eh1mcbrM, DIRECT, d53b998a7bd4ecd2
+sharethrough.com, 1aUUrcuX, DIRECT, d53b998a7bd4ecd2
+pubmatic.com, 156557, RESELLER
+rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807
+openx.com, 540274407, RESELLER, 6a698e2ec38604c6
+33across.com, 0013300001kQj2HAAS, RESELLER, bbea06d9c4d2853c
+smaato.com, 1100047713, RESELLER, 07bcf65f187117b4
+yahoo.com, 59531, RESELLER, e1a5b5b6e3255540
 
-# Triplelift
-triplelift.com, 8794, DIRECT, 6c33edb13117fd86
-
-# SpotX
-spotx.tv, 310789, DIRECT, 7842df1d2fe2db34
-spotx.tv, 310974, DIRECT, 7842df1d2fe2db34
-spotxchange.com, 310789, DIRECT, 7842df1d2fe2db34
-spotxchange.com, 310974, DIRECT, 7842df1d2fe2db34
-
-# Improve Digital
-improvedigital.com, 1833, DIRECT
-
-# Yieldmo
-yieldmo.com, 2601162141188694301, DIRECT
-yieldmo.com, 2601162675106816287, DIRECT
-
-# Magnite
-rubiconproject.com, 16334, DIRECT, 0bfd66d529a55807
-rubiconproject.com, 22780, DIRECT, 0bfd66d529a55807
-
-# Index Exchange
-indexexchange.com, 192867, DIRECT
-indexexchange.com, 193246, DIRECT
-
-# OneTag
-onetag.com, 7553da6e458e464, DIRECT
-onetag.com, 7553da6e458e464-OB, DIRECT
-
+# Onefootball
+onefootball.com, footy-light, DIRECT
 
 # Dugout End
 
