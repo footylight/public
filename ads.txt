@@ -123,6 +123,9 @@ openx.com, 540274407, RESELLER, 6a698e2ec38604c6
 smaato.com, 1100047713, RESELLER, 07bcf65f187117b4
 yahoo.com, 59531, RESELLER, e1a5b5b6e3255540
 
+# Onefootball
+onefootball.com, footy-light, DIRECT
+
 # Dugout End
 
 
