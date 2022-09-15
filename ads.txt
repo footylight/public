@@ -5,7 +5,7 @@
 google.com, pub-8968078361280209, DIRECT, f08c47fec0942fa0
 
 # Dugout start
-Version 5.35
+# Version 5.35
 
 # GAM
 google.com, pub-3689904677185774, RESELLER, f08c47fec0942fa0
