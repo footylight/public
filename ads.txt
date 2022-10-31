@@ -645,13 +645,6 @@ appnexus.com, 12570, DIRECT
 # Contact: support@publift.com #
 
 
-
-
-
-
-
-
-
 # Publift 
 # Updated: Aug 2022 #
 
@@ -2092,6 +2085,19 @@ lijit.com, 376385, RESELLER, fafdf38b16bf6b2b
 lijit.com, 376385-eb, RESELLER, fafdf38b16bf6b2b
 contextweb.com, 562704, RESELLER, 89ff185a4c4e857c
 themediagrid.com, PRLEZI, RESELLER, 35d5010d7789b49d
+
+adipolo.com, 61c43cd2b5d41f52d64f50b8, DIRECT
+adipolo.com, 87394396, DIRECT
+adipolo.com, 22105724155, DIRECT
+adipolosolutions.com, 22105724155, DIRECT
+adipolosolutions.com, 87394396, DIRECT
+pmbmonetize.com, 87394396, DIRECT
+smartadline.com, 87394396, DIRECT
+adipolo.com, 6346817a06235f64162dba6a, DIRECT
+adipolosolutions.com, 6346818a8fb22349cd06bb15, DIRECT
+adipolo.com, 22595250879, DIRECT
+adipolosolutions.com, 22595250879, DIRECT
+
 #APL END
 
 #Mobitech
