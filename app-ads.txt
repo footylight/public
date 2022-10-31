@@ -127,6 +127,16 @@ yahoo.com, 59531, RESELLER, e1a5b5b6e3255540
 # Onefootball
 onefootball.com, footy-light, DIRECT
 
+# JW Player
+Jwplayer.com, WeM4XiF6, DIRECT, 99ca9a2050fa3047
+themediagrid.com, ED6O3B, DIRECT, 35d5010d7789b49d
+advertising.com, 28814, RESELLER
+appnexus.com, 12564, RESELLER, f5ab79cb980f11d1
+pubmatic.com, 159247, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160127, RESELLER, 5d62403b186f2ace
+yahoo.com, 59527, DIRECT
+lijit.com, 418350, DIRECT, fafdf38b16bf6b2b #SOVRN
+
 # Dugout End
 
 # triplelift
