@@ -5,10 +5,9 @@
 google.com, pub-8968078361280209, DIRECT, f08c47fec0942fa0
 
 # Dugout start
-# Version 5.35
+# Version 5.37
 
 # GAM
-google.com, pub-3689904677185774, RESELLER, f08c47fec0942fa0
 google.com, pub-1872236547113677, RESELLER, f08c47fec0942fa0
 
 # Pubmatic
@@ -20,7 +19,6 @@ pubmatic.com, 161989, DIRECT, 5d62403b186f2ace
 openx.com, 540717833, DIRECT, 6a698e2ec38604c6
 openx.com, 540947425, DIRECT, 6a698e2ec38604c6
 openx.com, 541023710, DIRECT, 6a698e2ec38604c6
-openx.com, 541119529, DIRECT, 6a698e2ec38604c6
 openx.com, 541153846, DIRECT, 6a698e2ec38604c6
 
 # Xandr/Appnexus
@@ -123,9 +121,6 @@ openx.com, 540274407, RESELLER, 6a698e2ec38604c6
 smaato.com, 1100047713, RESELLER, 07bcf65f187117b4
 yahoo.com, 59531, RESELLER, e1a5b5b6e3255540
 
-# Onefootball
-onefootball.com, footy-light, DIRECT
-
 # JW Player
 Jwplayer.com, WeM4XiF6, DIRECT, 99ca9a2050fa3047
 themediagrid.com, ED6O3B, DIRECT, 35d5010d7789b49d
@@ -135,6 +130,34 @@ pubmatic.com, 159247, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160127, RESELLER, 5d62403b186f2ace
 yahoo.com, 59527, DIRECT
 lijit.com, 418350, DIRECT, fafdf38b16bf6b2b #SOVRN
+
+# Springserve
+springserve.com, 1722, RESELLER, a24eb641fc82e93d
+yahoo.com, 53379, RESELLER, e1a5b5b6e3255540
+pubmatic.com, 157310, RESELLER, 5d62403b186f2ace
+spotxchange.com, 239904, RESELLER, 7842df1d2fe2db34
+spotx.tv, 239904, RESELLER, 7842df1d2fe2db34
+openx.com, 540226160, RESELLER, 6a698e2ec38604c6
+google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
+undertone.com, 3817, RESELLER
+appnexus.com, 2234, RESELLER
+openx.com, 537153564, RESELLER, 6a698e2ec38604c6
+wideorbit.com, 766, DIRECT, 009ac71611fe32ff
+rubiconproject.com, 21134, RESELLER, 0bfd66d529a55807
+conversantmedia.com, 100032, RESELLER, 03113cd04947736d
+synacor.com, 82101, RESELLER, e108f11b2cdf7d5b
+advertising.com, 19623, RESELLER
+openx.com, 540634634, RESELLER, 6a698e2ec38604c6
+google.com, pub-5717092533913515, RESELLER, f08c47fec0942fa0 #NPMpartners
+indexexchange.com, 185192, RESELLER #EBDA
+rubiconproject.com, 17346, RESELLER, 0bfd66d529a55807 #EBDA
+smartyads.com, 523, DIRECT, fd2bde0ff2e62c5d
+33across.com, 0015a00002qrPZEAA2, DIRECT, bbea06d9c4d2853c #33Across #hb #tag #video
+yahoo.com, 57289, RESELLER, e1a5b5b6e3255540 #33Across #hb #tag #video
+sovrn.com, 391309, DIRECT, fafdf38b16bf6b2b
+lijit.com, 391309, DIRECT, fafdf38b16bf6b2b
+lijit.com, 391309-eb, DIRECT, fafdf38b16bf6b2b
+contextweb.com, 561910, RESELLER, 89ff185a4c4e857c
 
 # Dugout End
 
