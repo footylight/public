@@ -2162,6 +2162,16 @@ adipolosolutions.com, 6346818a8fb22349cd06bb15, DIRECT
 adipolo.com, 22595250879, DIRECT
 adipolosolutions.com, 22595250879, DIRECT
 
+adipolo.com, 22597201178, DIRECT
+adipolosolutions.com, 22597201178, DIRECT
+pmbmonetize.com, 22597201178, DIRECT
+adipolo.com, 22105724155, DIRECT
+adipolosolutions.com, 22105724155, DIRECT
+pmbmonetize.com, 22105724155, DIRECT
+adipolo.com, 6346817a06235f64162dba6a, DIRECT
+adipolosolutions.com, 6346818a8fb22349cd06bb15, DIRECT
+pmbmonetize.com, 22595250879, DIRECT
+
 #APL END
 
 #Mobitech
